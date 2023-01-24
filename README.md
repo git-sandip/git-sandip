@@ -13,8 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 My Random Tweets
-<img src="https://gtce.itsvg.in/api?username=tweets_sandip&theme=default&response=true&border=false&time=true&icon=bug"/>
-
+<img src="https://gtce.itsvg.in/api?username=tweets_sandip&theme=default&response=false&border=false&time=true&icon=bug"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=git-sandip&icon=6&color=10)](https://visitcount.itsvg.in)
 
