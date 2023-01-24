@@ -15,6 +15,8 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=tweets_sandip&theme=default&response=true&border=false&time=true&icon=bug"/></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=git-sandip&icon=6&color=10)](https://visitcount.itsvg.in)
 
